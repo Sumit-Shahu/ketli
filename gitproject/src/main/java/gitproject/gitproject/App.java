@@ -3,15 +3,7 @@ package gitproject.gitproject;
 public class App {
 	
     public static void main(String[] args){
-    	new App().start();
+    	System.out.println("this is main");
     }
-    
-    public App() {
-    	
-	}
-    
-    public void start() {
 
-	}
-    
 }
